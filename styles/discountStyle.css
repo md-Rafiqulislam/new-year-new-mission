@@ -1,0 +1,28 @@
+.discount-container {
+    width: 805px;
+    height: 805px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.discount-container h1 {
+    font-size: 88px;
+    font-weight: bold;
+    color: #ff0000;
+    margin-bottom: 20px;
+}
+
+.discount-container h3 {
+    font-size: 24px;
+    color: #ff0000;
+}
+
+.discount-container h2 {
+    font-size: 48px;
+    color: black;
+    margin: 20px 0;
+}
+
+.discount-container img {
+    width: 100%;
+}

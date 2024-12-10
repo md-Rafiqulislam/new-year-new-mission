@@ -19,6 +19,7 @@ header {
     margin: 0 auto;
     color: white;
     z-index: 1;
+    border-radius: 10px;
 }
 
 .header-title1 {
