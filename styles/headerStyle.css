@@ -1,0 +1,33 @@
+header {
+    width: 100%;
+    height: auto;
+}
+
+.header-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(
+            rgba(255, 254, 254, 0.3),
+            rgba(15, 1, 1, 0.9)
+        ),
+        url("../images/BannerImage.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width: 1320px;
+    height: 600px;
+    margin: 0 auto;
+    color: white;
+    z-index: 1;
+}
+
+.header-title1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+    z-index: 2;
+}
+
+.header-title2 {
+    font-size: 72px;
+    z-index: 2;
+}
