@@ -1,0 +1,28 @@
+.red-color {
+    color: #ff0000;
+}
+
+.address-section-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1320px;
+    height: 485px;
+    background: linear-gradient(#1a1717, #e6e2e2);
+    border: none;
+    border-radius: 10px;
+}
+
+.address-content {
+    width: 550px;
+    height: 170px;
+    text-align: center;
+}
+
+.address-content h2 {
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+
