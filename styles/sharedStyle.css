@@ -20,3 +20,11 @@ li {
 section {
     margin: 50px 0;
 }
+
+.primary-btn {
+    font-size: 24px;
+    padding: 15px 25px;
+    background-color: antiquewhite;
+    border: none;
+    border-radius: 10px;
+}
