@@ -11,3 +11,30 @@
     font-size: 72px;
     margin: 15px 0;
 }
+
+.flex-display {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.second-image-column {
+    position: relative;
+}
+
+.discount-image {
+    position: absolute;
+    right: 60%;
+    top: 15%;
+    border: none;
+}
+
+
+.last-image {
+    position: relative;
+    bottom: 25px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    top: -120px;
+}
