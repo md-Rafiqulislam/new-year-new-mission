@@ -1,0 +1,18 @@
+.portfolio-description {
+    margin-bottom: 35px;
+}
+
+.portfolio-description h3 {
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+
+.portfolio-description h2 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.portfolio-description p {
+    font-size: 20px;
+    line-height: 35px;
+}
