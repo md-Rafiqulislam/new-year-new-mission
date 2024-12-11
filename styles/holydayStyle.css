@@ -1,0 +1,13 @@
+.holyday-description {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.holyday-description h3 {
+    font-size: 24px;
+}
+
+.holyday-description h2 {
+    font-size: 72px;
+    margin: 15px 0;
+}
