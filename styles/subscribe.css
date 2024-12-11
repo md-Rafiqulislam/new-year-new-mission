@@ -1,0 +1,35 @@
+.subscribe-container {
+    padding: 50px;
+    height: 650px;
+    width: 100%;
+}
+
+.subscribe-container-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.subscribe-section-description {
+    width: 890px;
+    height: 350px;
+    text-align: center;
+}
+
+.subscribe-form-section {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.subscribe-email {
+    padding: 15px;
+    font-size: 18px;
+    border: none;
+    border-radius: 10px 0 0 10px;
+    color: blueviolet;
+    margin-right: 0;
+}
+
+.subscribe-title {
+    font-size: 48px;
+}
