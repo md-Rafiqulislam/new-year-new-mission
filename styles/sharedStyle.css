@@ -31,3 +31,7 @@ section {
     border: none;
     border-radius: 10px;
 }
+
+.red-color {
+    color: #ff0000;
+}

@@ -1,0 +1,30 @@
+.new-mission-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 470px;
+}
+
+
+.new-mission-column {
+    width: 33%;
+}
+
+.new-mission-image {
+    border: 15px solid rgb(68, 65, 65);
+    padding: 10px;
+    border-radius: 100%;
+}
+
+.new-mission-title1 {
+    font-size: 24px;
+}
+
+.new-mission-title2 {
+    font-size: 48px;
+}
+
+.new-mission-description {
+    font-size: 20px;
+    margin: 15px 0;
+}
